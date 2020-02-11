@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "Women",
+    "child": []
+  },
+  {
+    "id": "2",
+    "name": "Men",
+    "child": []
+  },
+  {
+    "id": "3",
+    "name": "Kids",
+    "child": []
+  },
+  {
+    "id": "4",
+    "name": "Beauty & Personal Care",
+    "child": []
+  },
+  {
+    "id": "5",
+    "name": "Winter Wear",
+    "child": []
+  },
+  {
+    "id": "6",
+    "name": "Home & Living",
+    "child": []
+  },
+  {
+    "id": "7",
+    "name": "Gadgets",
+    "child": []
+  },
+  {
+    "id": "8",
+    "name": "Plus Size",
+    "child": []
+  }
+]
