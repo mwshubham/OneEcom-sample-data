@@ -7,17 +7,112 @@
       {
         "id": "1",
         "name": "Women",
-        "child": []
+        "child": [
+          {
+            "id": "1001",
+            "name": "Ethinic & Fusionwear",
+            "child": [
+              {
+                "id": "10011",
+                "name": "Kurtas & Kurta Sets",
+                "child": []
+              },
+              {
+                "id": "10012",
+                "name": "Sarees & Blouses",
+                "child": []
+              },
+              {
+                "id": "10013",
+                "name": "Ethinic Dresses",
+                "child": []
+              },
+              {
+                "id": "10014",
+                "name": "Palazzos & Trousers",
+                "child": []
+              },
+              {
+                "id": "10015",
+                "name": "Lehenga Cholis",
+                "child": []
+              }
+            ]
+          },
+          {
+            "id": "1002",
+            "name": "Westernwear",
+            "child": []
+          },
+          {
+            "id": "1003",
+            "name": "Footwear",
+            "child": []
+          },
+          {
+            "id": "1004",
+            "name": "Beauty & Personal Care",
+            "child": []
+          },
+          {
+            "id": "1005",
+            "name": "Watches",
+            "child": []
+          }
+        ]
       },
       {
         "id": "2",
         "name": "Men",
-        "child": []
+        "child": [
+          {
+            "id": "2001",
+            "name": "Topwear",
+            "child": [
+              {
+                "id": "20011",
+                "name": "T-Shirts",
+                "child": []
+              },
+              {
+                "id": "20012",
+                "name": "Casual Shirts",
+                "child": []
+              },
+              {
+                "id": "20013",
+                "name": "Formal Shirts",
+                "child": []
+              },
+              {
+                "id": "20014",
+                "name": "Sweatshirts",
+                "child": []
+              },
+              {
+                "id": "20015",
+                "name": "Jacket",
+                "child": []
+              }
+            ]
+          },
+          {
+            "id": "2002",
+            "name": "Bottomwear",
+            "child": []
+          }
+        ]
       },
       {
         "id": "3",
         "name": "Kids",
-        "child": []
+        "child": [
+          {
+            "id": "3001",
+            "name": "Topwear",
+            "child": []
+          }
+        ]
       },
       {
         "id": "4",
@@ -32,17 +127,35 @@
       {
         "id": "6",
         "name": "Home & Living",
-        "child": []
+        "child": [
+          {
+            "id": "6001",
+            "name": "Explore Home Store",
+            "child": []
+          }
+        ]
       },
       {
         "id": "7",
         "name": "Gadgets",
-        "child": []
+        "child": [
+          {
+            "id": "7001",
+            "name": "Smart Wearables",
+            "child": []
+          }
+        ]
       },
       {
         "id": "8",
         "name": "Plus Size",
-        "child": []
+        "child": [
+          {
+            "id": "8001",
+            "name": "Explore Plus Size Store",
+            "child": []
+          }
+        ]
       }
     ]
   }
