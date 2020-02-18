@@ -15,26 +15,31 @@
               {
                 "id": "10011",
                 "name": "Kurtas & Kurta Sets",
+                "imageUrl": "https://p1.pxfuel.com/preview/687/384/893/ethnic-wear-saree-kurta-lehengas-designer-royalty-free-thumbnail.jpg",
                 "child": []
               },
               {
                 "id": "10012",
                 "name": "Sarees & Blouses",
+                "imageUrl": "https://p1.pxfuel.com/preview/796/1020/843/saree-indian-ethnic-clothing-royalty-free-thumbnail.jpg",
                 "child": []
               },
               {
                 "id": "10013",
                 "name": "Ethinic Dresses",
+                "imageUrl": "https://cdn.pixabay.com/photo/2015/04/08/15/18/saree-712912_960_720.jpg",
                 "child": []
               },
               {
                 "id": "10014",
                 "name": "Palazzos & Trousers",
+                "imageUrl": "https://cdn.pixabay.com/photo/2012/04/24/11/18/clothing-39389_960_720.png",
                 "child": []
               },
               {
                 "id": "10015",
                 "name": "Lehenga Cholis",
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Raima_Sen_still40.jpg",
                 "child": []
               }
             ]
@@ -72,26 +77,31 @@
               {
                 "id": "20011",
                 "name": "T-Shirts",
+                "imageUrl": "https://p1.pxfuel.com/preview/23/376/973/t-shirt-red-man-plain-royalty-free-thumbnail.jpg",
                 "child": []
               },
               {
                 "id": "20012",
                 "name": "Casual Shirts",
+                "imageUrl": "https://cdn.pixabay.com/photo/2018/10/10/14/24/shirt-3737404_960_720.jpg",
                 "child": []
               },
               {
                 "id": "20013",
                 "name": "Formal Shirts",
+                "imageUrl": "https://pngimg.com/uploads/dress_shirt/dress_shirt_PNG8072.png",
                 "child": []
               },
               {
                 "id": "20014",
                 "name": "Sweatshirts",
+                "imageUrl": "https://cdn.pixabay.com/photo/2019/06/09/06/02/black-4261521_960_720.jpg",
                 "child": []
               },
               {
                 "id": "20015",
                 "name": "Jacket",
+                "imageUrl": "https://cdn.pixabay.com/photo/2017/10/06/04/32/jacket-2821961_960_720.jpg",
                 "child": []
               }
             ]
