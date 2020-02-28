@@ -1,0 +1,69 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "",
+  "data": {
+    "results": [
+      {
+        "id": 1001,
+        "name": "Kurta set 1",
+        "short_desc": "Women Printed Kurta Set 1",
+        "base_price": 2500.0,
+        "discount_price": 1250.0,
+        "discount_percentage": 50.0,
+        "image_url": "https://cdn.shopify.com/s/files/1/0105/8881/5418/products/IMG_345111_1024x1024.jpg",
+        "category_id": "1001"
+      },
+      {
+        "id": 1002,
+        "name": "Kurta set 2",
+        "short_desc": "Women Printed Kurta Set 2",
+        "base_price": 2500.0,
+        "discount_price": 1250.0,
+        "discount_percentage": 50.0,
+        "image_url": "https://get.pxhere.com/photo/man-light-people-girl-woman-antique-looking-male-female-celebration-asian-dance-young-show-religion-couple-human-two-clothing-lifestyle-married-holding-festive-ethnic-ballet-dancer-performance-art-religious-festival-wife-saree-classical-dress-happy-happiness-sports-performance-pose-belly-expression-culture-shot-sari-style-front-event-hindu-tradition-costume-indian-contact-diwali-deepawali-occasion-femininity-traditional-entertainment-bond-jewelery-adult-facial-identity-cultural-husband-relationships-bangles-east-deepavali-hinduism-performing-arts-ethnicity-maharashtrian-team-sport-newlywed-25-30-musical-theatre-modern-dance-concert-dance-puja-kurta-gudi-gudhi-bhartnatam-1288457.jpg",
+        "category_id": "1001"
+      },
+      {
+        "id": 1003,
+        "name": "Kurta set 3",
+        "short_desc": "Women Printed Kurta Set 3",
+        "base_price": 2500.0,
+        "discount_price": 1250.0,
+        "discount_percentage": 50.0,
+        "image_url": "https://c.pxhere.com/photos/cd/3a/casual_colors_colours_design_dress_elegant_fashion_female-998757.jpg!d",
+        "category_id": "1001"
+      },
+      {
+        "id": 1004,
+        "name": "Kurta set 4",
+        "short_desc": "Women Printed Kurta Set 4",
+        "base_price": 2500.0,
+        "discount_price": 1250.0,
+        "discount_percentage": 50.0,
+        "image_url": "https://c.pxhere.com/photos/0a/07/adolescent_casual_cheerful_cute_fashion_friendly_full_funny-1173459.jpg!d",
+        "category_id": "1001"
+      },
+      {
+        "id": 1005,
+        "name": "Kurta set 5",
+        "short_desc": "Women Printed Kurta Set 5",
+        "base_price": 2500.0,
+        "discount_price": 1250.0,
+        "discount_percentage": 50.0,
+        "image_url": "https://c.pxhere.com/photos/1a/4a/cheerful_cute_dress_elegant_fashion_full_funny_girl-1173457.jpg!d",
+        "category_id": "1001"
+      },
+      {
+        "id": 1006,
+        "name": "Kurta set 6",
+        "short_desc": "Women Printed Kurta Set 6",
+        "base_price": 2500.0,
+        "discount_price": 1250.0,
+        "discount_percentage": 50.0,
+        "image_url": "https://c.pxhere.com/photos/60/c8/adolescent_casual_contemporary_cute_elegant_fashion_formal_friendly-1173448.jpg!d",
+        "category_id": "1001"
+      }
+    ]
+  }
+}
